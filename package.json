@@ -9,7 +9,7 @@
   "dependencies": {
     "body-parse": "^0.1.0",
     "casual": "^1.6.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "graphql": "^15.0.0",
     "graphql-server-express": "^1.4.1",
     "graphql-tools": "^6.0.5"
